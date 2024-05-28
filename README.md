@@ -20,4 +20,4 @@ Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais 
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsalles_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsalles)
