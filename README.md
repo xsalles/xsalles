@@ -1,6 +1,6 @@
 ##  Olá, meu nome é Pedro!
 
-Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estou estudando no instituto Adventista estou cursando o 2º ano do Ensino Médio. Mais futuramente, irei me especializar em React
+Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estou estudando no instituto Adventista estou cursando o 2º ano do Ensino Médio
 
 🔭Tenho trabalhado no projeto chamado "buscador-cep", que basicamente envolve uma API que busca o cep, e automaticamente coloca o endereço do cliente que informou o cep.
 
