@@ -1,8 +1,6 @@
 ##  Fala rede!
 
-Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estou estudando no instituto Adventista estou cursando o 2º ano do Ensino Médio
-
-🔭Tenho trabalhado no projeto chamado "buscador-cep", que basicamente envolve uma API que busca o cep, e usa o auto-complete para completar os campos, usando um hook chamado useForm.
+Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estou estudando no instituto Adventista estou cursando o 2º ano do Ensino Médio.
 
 💬 Para tirar dúvidas, mande um email para: xs.salles@gmail.com
 
