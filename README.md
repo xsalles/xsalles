@@ -1,6 +1,6 @@
 ##  Fala rede!
 
-Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estou estudando no instituto Adventista estou cursando o 2º ano do Ensino Médio.
+Me chamo Pedro Sales, e tenho 16 anos, atualmente estudo para a Front-End, mais especificamente HTML, CSS, JS com biblioteca React. Estudo no instituto Adventista e estou cursando o 2º ano do Ensino Médio.
 
 💬 Para tirar dúvidas, mande um email para: xs.salles@gmail.com
 
