@@ -17,7 +17,7 @@
 
 # Connected with me
 
-<code><img height="32" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="LinkedIn"/></code>
+<code><a href="https://www.linkedin.com/in/me/"><img height="32" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="LinkedIn"/></a></code>
 
 ---
 
