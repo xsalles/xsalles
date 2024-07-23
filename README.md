@@ -13,7 +13,7 @@
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" alt="Jest"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
 <code><img height="32" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_storybook.png" alt="Storybook"/></code>
-<code><img height="32" src="https://miro.medium.com/v2/resize:fit:636/1*bZTzPKJECXngupaRhEAzNQ.png" alt="Styled-Components"/></code>
+
 
 ---
 
