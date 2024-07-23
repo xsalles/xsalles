@@ -1,6 +1,6 @@
 # Hey guys, my name's Pedro and I'm from Brazil, SP
 
-💬 Para tirar dúvidas, mande um email para: xs.salles@gmail.com
+💬 To answer your questions, send me an email: xs.salles@gmail.com
 
 ---
 
