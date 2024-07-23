@@ -12,7 +12,8 @@
 <code><img height="32" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" alt="React"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" alt="Jest"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
-<code><img height="32" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_storybook.png" alt="Vite"/></code>
+<code><img height="32" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_storybook.png" alt="Storybook"/></code>
+<code><img height="32" src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" alt="Storybook"/></code>
 
 ---
 
