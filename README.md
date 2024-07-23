@@ -12,6 +12,7 @@
 <code><img height="32" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg" alt="React"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" alt="Jest"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
+<code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
 
 ---
 
