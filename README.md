@@ -13,6 +13,7 @@
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZWil3CMPi_oxEgTaf16tBnG9ZobYXWk06w&s" alt="Jest"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
 <code><img height="32" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_storybook.png" alt="Storybook"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux"/></code>
 
 
 ---
