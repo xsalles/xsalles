@@ -14,7 +14,8 @@
 <code><img height="32" src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite"/></code>
 <code><img height="32" src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2023/01/small-icon_storybook.png" alt="Storybook"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Redux"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Stled-Components"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma"/></code>
 
 
 
