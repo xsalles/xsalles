@@ -2,7 +2,7 @@
 
 💬 To answer your questions, send me an email: xs.salles@gmail.com
 
----
+--- 
 
 ## 🚀 Languages and tools
 
