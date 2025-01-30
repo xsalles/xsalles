@@ -16,6 +16,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Stled-Components"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma"/></code>
+<code><img height="32" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod"/></code>
 
 
 
