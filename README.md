@@ -21,6 +21,8 @@
 <code><img height="32" src="https://phoenixweb.com.au/wp-content/uploads/2016/11/MySQL-logo.png.webp" alt="MySQL"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="Typescript"/></code>
 <code><img height="32" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind CSS"/></code>
+<code><img height="32" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="NextJS"/></code>
+
 
 
 
