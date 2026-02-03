@@ -13,7 +13,7 @@
 
 - <h4>📫 Como falar comigo? Me mande um email xs.salles@gmail.com</h4>
 
-- <h4>📄 Ficou interessado e quer saber um pouco mais sobre mim? Esse é meu currículo <a href="https://drive.google.com/file/d/1KSYB43RAwZbTEgHj0wojkKZmd_WlvYu_/view?usp=sharing">Currículo em PDF</a></h4>
+- <h4>📄 Ficou interessado e quer saber um pouco mais sobre mim? Esse é meu currículo <a href="https://drive.google.com/file/d/1s4wwWLuj0m0y4AjCrS5EEdP7dbP2N3DU/view?usp=sharing">Currículo em PDF</a></h4>
 
 - <h4>⚡ Ponto forte: Consigo entregar qualidade e eficiência em pouco tempo!<h4>
 
