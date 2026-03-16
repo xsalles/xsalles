@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsalles&label=Profile%20views&color=0e75b6&style=flat" alt="xsalles" /> </p>
 
-- <h4>🔭 Atualmente, eu estou trabalhando no Front End de um projeto chamado <a href="https://github.com/orgs/fb-FoodBridge/teams/front-end">FoodBridge</a></h4>
+- <h4>🔭 Atualmente, eu estou trabalhando no Front End de um projeto chamado <a href="https://github.com/orgs/fb-FoodBridge/teams/front-end">FoodBridge</a> e outro se chama <a href="https://github.com/VozJusta/VJ.WEB">VozJusta</a> </h4>
 
 - <h4>🌱 Eu atualmente estou cursando: Curso Técnico de Desenvolvimento de Sistemas </h4>
 
@@ -13,7 +13,7 @@
 
 - <h4>📫 Como falar comigo? Me mande um email xs.salles@gmail.com</h4>
 
-- <h4>📄 Ficou interessado e quer saber um pouco mais sobre mim? Esse é meu currículo <a href="https://drive.google.com/file/d/1s4wwWLuj0m0y4AjCrS5EEdP7dbP2N3DU/view?usp=sharing">Currículo em PDF</a></h4>
+- <h4>📄 Ficou interessado e quer saber um pouco mais sobre mim? Esse é meu currículo <a href="https://drive.google.com/file/d/1U05EYFxrkmCWLBrEmzLOMRJsUGagqGsk/view?usp=sharing">Currículo em PDF</a></h4>
 
 - <h4>⚡ Ponto forte: Consigo entregar qualidade e eficiência em pouco tempo!<h4>
 
