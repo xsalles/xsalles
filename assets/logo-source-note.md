@@ -1,0 +1,1 @@
+A versão canônica da marca no perfil é `logo.svg`: vetor branco, fundo transparente e escalável. Não adicionar retângulo, círculo ou preenchimento de fundo diretamente à logo; qualquer contêiner visual deve ser responsabilidade do asset que a utiliza.
