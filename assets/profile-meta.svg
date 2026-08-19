@@ -1,1 +1,9 @@
-<svg width="1280" height="96" viewBox="0 0 1280 96" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="1280" height="96" rx="18" fill="#090B11"/><rect x="1" y="1" width="1278" height="94" rx="17" stroke="#23293A"/><text x="44" y="58" fill="#6E7896" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="2">XSALLES / FULL STACK / AUTOMAÇÃO / APIs / SISTEMAS / SÃO PAULO</text><circle cx="1204" cy="48" r="6" fill="#64D8FF"/><circle cx="1228" cy="48" r="6" fill="#7B61FF"/></svg>
+<svg width="1280" height="96" viewBox="0 0 1280 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="96" rx="8" fill="#000000"/>
+  <rect x="1" y="1" width="1278" height="94" rx="7" stroke="#333333"/>
+  <rect x="28" y="26" width="128" height="44" rx="4" fill="#FFFFFF"/>
+  <text x="47" y="54" fill="#000000" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">XSALLES</text>
+  <text x="188" y="56" fill="#8A8A8A" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">DESENVOLVIMENTO FULL STACK / AUTOMAÇÃO / APIs / SISTEMAS / SÃO PAULO</text>
+  <circle cx="1204" cy="48" r="5" fill="#FFFFFF"/>
+  <circle cx="1228" cy="48" r="5" fill="#333333" stroke="#FFFFFF" stroke-opacity="0.35"/>
+</svg>
