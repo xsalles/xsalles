@@ -1,62 +1,20 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#090B11"/>
-      <stop offset="1" stop-color="#0D1020"/>
-    </linearGradient>
-    <linearGradient id="line" x1="120" y1="160" x2="1160" y2="160" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#64D8FF"/>
-      <stop offset="0.5" stop-color="#7B61FF"/>
-      <stop offset="1" stop-color="#B06CFF"/>
-    </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#090B11"/><stop offset="1" stop-color="#0D1020"/></linearGradient>
+    <linearGradient id="line" x1="120" y1="160" x2="1160" y2="160" gradientUnits="userSpaceOnUse"><stop stop-color="#64D8FF"/><stop offset="0.5" stop-color="#7B61FF"/><stop offset="1" stop-color="#B06CFF"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1232" height="272" rx="18" stroke="#252B3F"/>
-  <text x="64" y="68" fill="#69738F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="3">ENGINEERING LOOP / FROM OPERATION TO EVOLUTION</text>
-
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/><rect x="24" y="24" width="1232" height="272" rx="18" stroke="#252B3F"/>
+  <text x="64" y="68" fill="#69738F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="3">CICLO DE ENGENHARIA / DA OPERAÇÃO À EVOLUÇÃO</text>
   <path d="M130 170H1150" stroke="url(#line)" stroke-width="2" stroke-opacity="0.55"/>
-
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <g transform="translate(130 170)">
-      <circle r="14" fill="#0C1820" stroke="#64D8FF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#E9F7FF" font-size="14">UNDERSTAND</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">operation</text>
-    </g>
-    <g transform="translate(300 170)">
-      <circle r="14" fill="#101426" stroke="#6F9BFF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#EEF0FF" font-size="14">MODEL</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">architecture</text>
-    </g>
-    <g transform="translate(470 170)">
-      <circle r="14" fill="#131226" stroke="#7B61FF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#F0EDFF" font-size="14">BUILD</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">product</text>
-    </g>
-    <g transform="translate(640 170)">
-      <circle r="14" fill="#171126" stroke="#8D63FF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#F2EDFF" font-size="14">CONNECT</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">systems</text>
-    </g>
-    <g transform="translate(810 170)">
-      <circle r="14" fill="#1A1126" stroke="#9D67FF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#F5EEFF" font-size="14">OBSERVE</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">behavior</text>
-    </g>
-    <g transform="translate(980 170)">
-      <circle r="14" fill="#1B1024" stroke="#AB68FF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#F7EEFF" font-size="14">AUTOMATE</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">repetition</text>
-    </g>
-    <g transform="translate(1150 170)">
-      <circle r="14" fill="#1D1025" stroke="#B06CFF" stroke-width="2" filter="url(#glow)"/>
-      <text x="0" y="-34" text-anchor="middle" fill="#F8EFFF" font-size="14">EVOLVE</text>
-      <text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">system</text>
-    </g>
+    <g transform="translate(130 170)"><circle r="14" fill="#0C1820" stroke="#64D8FF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#E9F7FF" font-size="14">ENTENDER</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">operação</text></g>
+    <g transform="translate(300 170)"><circle r="14" fill="#101426" stroke="#6F9BFF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#EEF0FF" font-size="14">MODELAR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">arquitetura</text></g>
+    <g transform="translate(470 170)"><circle r="14" fill="#131226" stroke="#7B61FF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#F0EDFF" font-size="14">CONSTRUIR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">produto</text></g>
+    <g transform="translate(640 170)"><circle r="14" fill="#171126" stroke="#8D63FF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#F2EDFF" font-size="14">CONECTAR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">sistemas</text></g>
+    <g transform="translate(810 170)"><circle r="14" fill="#1A1126" stroke="#9D67FF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#F5EEFF" font-size="14">OBSERVAR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">comportamento</text></g>
+    <g transform="translate(980 170)"><circle r="14" fill="#1B1024" stroke="#AB68FF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#F7EEFF" font-size="14">AUTOMATIZAR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">repetição</text></g>
+    <g transform="translate(1150 170)"><circle r="14" fill="#1D1025" stroke="#B06CFF" stroke-width="2" filter="url(#glow)"/><text x="0" y="-34" text-anchor="middle" fill="#F8EFFF" font-size="14">EVOLUIR</text><text x="0" y="46" text-anchor="middle" fill="#606A84" font-size="11">sistema</text></g>
   </g>
-
   <path d="M1150 170C1196 170 1204 110 1165 92C1050 38 230 38 115 92C76 110 84 170 130 170" stroke="url(#line)" stroke-width="1.5" stroke-opacity="0.25" stroke-dasharray="5 8"/>
 </svg>
