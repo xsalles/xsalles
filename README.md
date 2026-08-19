@@ -138,7 +138,7 @@ Minha atuação hoje é menos sobre uma stack específica e mais sobre conectar 
 ## Modo engenharia:
 
 <p align="center">
-  <img width="100%" src="./assets/engineering-flow.svg" alt="Fluxo de engenharia" />
+  <img width="100%" src="./assets/engineering-flow-v2.svg" alt="Fluxo de engenharia" />
 </p>
 
 <br />
