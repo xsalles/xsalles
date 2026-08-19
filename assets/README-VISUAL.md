@@ -1,0 +1,1 @@
+Perfil visual revisado em 19/08/2026. Consulte `STRUCTURE.md` e `DESIGN_RULES.md` para os assets ativos e regras de identidade.
