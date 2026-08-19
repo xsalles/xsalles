@@ -1,28 +1,62 @@
 <svg width="1280" height="500" viewBox="0 0 1280 500" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#07080D"/><stop offset="0.55" stop-color="#0D1020"/><stop offset="1" stop-color="#080A12"/></linearGradient>
-    <linearGradient id="accent" x1="180" y1="90" x2="1050" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#64D8FF"/><stop offset="0.48" stop-color="#7B61FF"/><stop offset="1" stop-color="#B06CFF"/></linearGradient>
-    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8AE6FF" stop-opacity="0.92"/><stop offset="1" stop-color="#7B61FF" stop-opacity="0.7"/></linearGradient>
-    <linearGradient id="cubeLeft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3552D8" stop-opacity="0.78"/><stop offset="1" stop-color="#141B48" stop-opacity="0.8"/></linearGradient>
-    <linearGradient id="cubeRight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A15CFF" stop-opacity="0.74"/><stop offset="1" stop-color="#29174B" stop-opacity="0.8"/></linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="18" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8A93B8" stroke-opacity="0.07" stroke-width="1"/></pattern>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="3"/>
+    </pattern>
   </defs>
-  <rect width="1280" height="500" rx="28" fill="url(#bg)"/><rect width="1280" height="500" rx="28" fill="url(#grid)"/><rect x="24" y="24" width="1232" height="452" rx="20" stroke="url(#accent)" stroke-opacity="0.32"/>
-  <circle cx="1050" cy="246" r="172" fill="#7B61FF" fill-opacity="0.12" filter="url(#glow)"/><circle cx="1120" cy="185" r="92" fill="#64D8FF" fill-opacity="0.10" filter="url(#soft)"/>
-  <text x="74" y="92" fill="#7E88A8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="4">PERFIL DE SISTEMA / XSALLES</text>
-  <text x="72" y="196" fill="#F5F7FF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">PEDRO SALES</text>
-  <rect x="74" y="222" width="520" height="2" fill="url(#accent)"/>
-  <text x="74" y="270" fill="#AAB1C8" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1">DESENVOLVEDOR FULL STACK</text>
-  <text x="74" y="308" fill="#7B849F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">APIs / AUTOMAÇÃO / SISTEMAS / DADOS / PRODUTO</text>
-  <g transform="translate(74 360)"><rect width="230" height="54" rx="10" fill="#111522" stroke="#2B3146"/><circle cx="28" cy="27" r="5" fill="#64D8FF"/><text x="48" y="32" fill="#DCE2F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">SÃO PAULO / BR</text></g>
-  <g transform="translate(320 360)"><rect width="274" height="54" rx="10" fill="#111522" stroke="#2B3146"/><circle cx="28" cy="27" r="5" fill="#8F70FF"/><text x="48" y="32" fill="#DCE2F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">CONSTRUINDO SISTEMAS REAIS</text></g>
-  <g transform="translate(890 108)">
-    <g transform="translate(0 90)"><polygon points="100,0 200,54 100,108 0,54" fill="url(#cubeTop)"/><polygon points="0,54 100,108 100,216 0,162" fill="url(#cubeLeft)"/><polygon points="200,54 100,108 100,216 200,162" fill="url(#cubeRight)"/><path d="M100 108V216M0 54L100 108L200 54" stroke="#C6F3FF" stroke-opacity="0.32"/></g>
-    <g transform="translate(112 10) scale(.72)"><polygon points="100,0 200,54 100,108 0,54" fill="url(#cubeTop)" opacity=".72"/><polygon points="0,54 100,108 100,216 0,162" fill="url(#cubeLeft)" opacity=".72"/><polygon points="200,54 100,108 100,216 200,162" fill="url(#cubeRight)" opacity=".72"/></g>
-    <g transform="translate(-70 12) scale(.5)"><polygon points="100,0 200,54 100,108 0,54" fill="url(#cubeTop)" opacity=".45"/><polygon points="0,54 100,108 100,216 0,162" fill="url(#cubeLeft)" opacity=".45"/><polygon points="200,54 100,108 100,216 200,162" fill="url(#cubeRight)" opacity=".45"/></g>
-    <path d="M28 198L-50 240M198 196L280 232M162 82L212 34" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="6 8"/><circle cx="-50" cy="240" r="5" fill="#64D8FF"/><circle cx="280" cy="232" r="5" fill="#A76BFF"/><circle cx="212" cy="34" r="5" fill="#8F70FF"/>
+
+  <rect width="1280" height="500" rx="8" fill="#000000"/>
+  <rect width="1280" height="500" rx="8" fill="url(#grid)"/>
+  <rect x="24" y="24" width="1232" height="452" rx="8" stroke="#333333"/>
+
+  <text x="72" y="80" fill="#7A7A7A" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="4">PERFIL TÉCNICO / XSALLES</text>
+  <rect x="72" y="104" width="66" height="4" fill="#FFFFFF"/>
+
+  <text x="70" y="198" fill="#FFFFFF" font-family="Satoshi, Inter, Arial, sans-serif" font-size="76" font-weight="900" letter-spacing="-3">PEDRO SALES</text>
+  <text x="72" y="248" fill="#A0A0A0" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1">DESENVOLVEDOR FULL STACK</text>
+  <text x="72" y="290" fill="#666666" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">APIs / AUTOMAÇÃO / SISTEMAS / DADOS / PRODUTO</text>
+
+  <g transform="translate(72 346)">
+    <rect width="212" height="48" rx="4" fill="#FFFFFF"/>
+    <text x="20" y="30" fill="#000000" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="900" letter-spacing="2">SÃO PAULO / BRASIL</text>
   </g>
-  <text x="1128" y="452" fill="#4D5674" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">v2026.08</text>
+  <g transform="translate(300 346)">
+    <rect width="300" height="48" rx="4" fill="#111111" stroke="#333333"/>
+    <text x="20" y="30" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.5">CONSTRUINDO SISTEMAS REAIS</text>
+  </g>
+
+  <circle cx="1082" cy="96" r="102" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+  <circle cx="1082" cy="96" r="70" fill="url(#stripes)" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="1150" y="74" width="56" height="56" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2" transform="rotate(12 1150 74)"/>
+
+  <g transform="translate(858 142)">
+    <g transform="translate(92 70)">
+      <polygon points="110,0 220,60 110,120 0,60" fill="#FFFFFF"/>
+      <polygon points="0,60 110,120 110,238 0,178" fill="#111111" stroke="#FFFFFF" stroke-opacity="0.34"/>
+      <polygon points="220,60 110,120 110,238 220,178" fill="#1A1A1A" stroke="#FFFFFF" stroke-opacity="0.34"/>
+      <path d="M110 120V238M0 60L110 120L220 60" stroke="#FFFFFF" stroke-opacity="0.5"/>
+    </g>
+
+    <g transform="translate(230 0) scale(.58)">
+      <polygon points="110,0 220,60 110,120 0,60" fill="#BFBFBF"/>
+      <polygon points="0,60 110,120 110,238 0,178" fill="#111111" stroke="#FFFFFF" stroke-opacity="0.25"/>
+      <polygon points="220,60 110,120 110,238 220,178" fill="#1A1A1A" stroke="#FFFFFF" stroke-opacity="0.25"/>
+    </g>
+
+    <g transform="translate(0 32) scale(.42)">
+      <polygon points="110,0 220,60 110,120 0,60" fill="#666666"/>
+      <polygon points="0,60 110,120 110,238 0,178" fill="#111111" stroke="#FFFFFF" stroke-opacity="0.2"/>
+      <polygon points="220,60 110,120 110,238 220,178" fill="#1A1A1A" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    </g>
+
+    <path d="M84 246L18 278M306 238L376 272M286 72L342 40" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="1.5" stroke-dasharray="5 8"/>
+    <circle cx="18" cy="278" r="4" fill="#FFFFFF"/>
+    <circle cx="376" cy="272" r="4" fill="#FFFFFF"/>
+    <circle cx="342" cy="40" r="4" fill="#FFFFFF"/>
+  </g>
+
+  <text x="1122" y="448" fill="#4D4D4D" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2">EDIÇÃO 2026.08</text>
 </svg>
