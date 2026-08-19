@@ -21,7 +21,7 @@
 
 <br />
 
-## PERFIL / 01
+## Sobre mim:
 
 ```ts
 const pedro = {
@@ -47,7 +47,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## ATUAL / 02
+## Atualmente:
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## SISTEMAS QUE CONSTRUO / 03
+## Sistemas que construo:
 
 <table>
   <tr>
@@ -95,7 +95,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## TECNOLOGIAS / 04
+## Tecnologias:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,nodejs,nestjs,java,spring,cs,dotnet,python&perline=12" alt="Principais tecnologias" />
@@ -117,7 +117,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## PROJETOS SELECIONADOS / 05
+## Projetos selecionados:
 
 <table>
   <tr>
@@ -160,7 +160,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## ESPAÇO DE CONTRIBUIÇÕES / 06
+## Espaço de contribuições:
 
 <p align="center">
   <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
@@ -172,7 +172,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## MODO ENGENHARIA / 07
+## Modo engenharia:
 
 <p align="center">
   <img width="100%" src="./assets/engineering-flow.svg" alt="Fluxo de engenharia" />
@@ -180,7 +180,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## PRINCÍPIOS / 08
+## Princípios:
 
 ```text
 01  entender a operação antes de tocar na arquitetura
@@ -194,7 +194,7 @@ Minha atuação hoje é menos sobre “uma stack específica” e mais sobre con
 
 <br />
 
-## CONTATO / 09
+## Contato:
 
 Se você quer conversar sobre sistemas, automação, integrações, produto ou engenharia de software:
 
