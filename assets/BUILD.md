@@ -1,0 +1,1 @@
+Build visual concluído. O README usa apenas os assets listados em `ACTIVE_ASSETS.txt`.
