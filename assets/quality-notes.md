@@ -1,0 +1,1 @@
+Logo principal: vetor SVG, fundo transparente, sem rasterização. Hero e rodapé utilizam a versão vetorial embutida para manter nitidez em qualquer escala.
