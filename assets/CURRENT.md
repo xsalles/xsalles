@@ -1,0 +1,1 @@
+Ativos usados pelo README atual: `profile-hero-v2.svg`, `profile-meta-v2.svg`, `current-panel.svg`, `systems-grid.svg`, `engineering-flow-v2.svg`, `principles-grid.svg`, `profile-footer-v2.svg` e `logo.svg`.
