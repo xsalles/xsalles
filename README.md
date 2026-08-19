@@ -15,6 +15,10 @@
   <a href="mailto:xs.salles@gmail.com"><strong>EMAIL</strong></a>
 </p>
 
+<p align="center">
+  <img width="100%" src="./assets/profile-meta.svg" alt="Profile meta" />
+</p>
+
 <br />
 
 ## PROFILE / 01
