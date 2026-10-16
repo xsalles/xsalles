@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 348" role="img" aria-labelledby="title desc">
+<title id="title">Salles Dev</title>
+<desc id="desc">Identidade Salles Dev. Software, produto e automação.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#C8D8CC" stroke-width="0.7" opacity=".30"/></pattern>
+  <clipPath id="clip"><rect x="0" y="0" width="1200" height="348" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="348" fill="#F4F7F2"/>
+  <rect x="690" width="510" height="348" fill="url(#grid)" />
+  <path d="M0 347H1200" stroke="#C8D8CC"/>
+  <rect x="52" y="43" width="51" height="51" rx="13" fill="#246B4A"/>
+  <path d="M66 68h9m-9 10h16l7-9-7-9H66" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="117" y="64" fill="#15211C" font-size="17" font-weight="700" letter-spacing="1.9" font-family="Arial,Helvetica,sans-serif">PEDRO SALES</text>
+  <text x="117" y="85" fill="#53675C" font-size="13" letter-spacing="2.1" font-family="Arial,Helvetica,sans-serif">DESENVOLVEDOR FULL STACK</text>
+  <text x="55" y="225" fill="#15211C" font-size="106" font-weight="800" letter-spacing="-5.4" font-family="Arial,Helvetica,sans-serif">Salles</text>
+  <text x="375" y="225" fill="#246B4A" font-size="106" font-weight="800" letter-spacing="-5.4" font-family="Arial,Helvetica,sans-serif">Dev.</text>
+  <rect x="55" y="257" width="45" height="4" rx="2" fill="#246B4A"/>
+  <text x="116" y="265" fill="#53675C" font-size="19" font-family="Arial,Helvetica,sans-serif" letter-spacing=".3">Software · Produto · Automação</text>
+  <circle cx="1004" cy="183" r="172" stroke="#C8D8CC" stroke-width="1.3" fill="none"/>
+  <circle cx="1004" cy="183" r="128" stroke="#C8D8CC" stroke-width="1.3" fill="#E7EEE7"/>
+  <circle cx="1004" cy="183" r="85" stroke="#C8D8CC" stroke-width="1.3" fill="none"/>
+  <path d="M933 246L1043 123" stroke="#246B4A" stroke-width="18" stroke-linecap="square"/>
+  <path d="M925 164V124H964" stroke="#15211C" stroke-width="10" fill="none" stroke-linecap="square"/>
+  <path d="M1079 201v40h-40" stroke="#15211C" stroke-width="10" fill="none" stroke-linecap="square"/>
+  <circle cx="1004" cy="55" r="6" fill="#246B4A"/>
+  <circle cx="1132" cy="183" r="6" fill="#246B4A"/>
+  <circle cx="876" cy="183" r="6" fill="#246B4A"/>
+  <circle cx="1004" cy="311" r="6" fill="#246B4A"/>
+  <rect x="802" y="36" width="342" height="276" rx="24" stroke="#C8D8CC" stroke-width="1" fill="none" opacity=".45"/>
+</g>
+</svg>
