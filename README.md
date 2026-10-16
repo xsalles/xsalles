@@ -1,82 +1,92 @@
-<!-- Perfil de Pedro Sales • identidade Salles Dev -->
+# Salles Dev
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/salles-dev-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/salles-dev-light.svg">
-    <img src="./assets/salles-dev-dark.svg" width="100%" alt="Salles Dev — software, produto e automação. Identidade visual de Pedro Sales.">
-  </picture>
+> Software que nasce de um problema real e chega até quem precisa usar.
 
-  <p><strong>Pedro Sales</strong> · Desenvolvedor Full Stack · São Paulo, Brasil</p>
-  <p>Do problema à interface. Da regra de negócio à produção.</p>
-  <p>
-    <a href="https://salles.dev.br">Portfólio</a> &nbsp;·&nbsp;
-    <a href="https://github.com/xsalles?tab=repositories">Repositórios</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/pedro-sales-00090a274/">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="mailto:xs.salles@gmail.com">E-mail</a>
-  </p>
-</div>
+Eu sou Pedro Sales, desenvolvedor full stack. Gosto de entender o que está travando uma operação, desenhar uma experiência simples e construir a tecnologia por trás dela — da primeira tela à produção.
+
+A Salles Dev é onde reúno esse jeito de criar: produto, engenharia e automação trabalhando juntos.
+
+Bora construir.
 
 ---
 
-## Prazer, sou o Pedro.
+## Por onde começar
 
-Gosto de pegar problemas que parecem confusos, entender como as pessoas realmente trabalham e transformar isso em software que faz sentido usar.
+Três caminhos. Escolhe o que faz mais sentido pra você.
 
-Minha atuação é **full stack de ponta a ponta**: penso no fluxo, desenho a interface, modelo os dados, construo as APIs, integro serviços, automatizo tarefas e acompanho a evolução do produto. Tenho um cuidado especial com **experiência de uso, arquitetura, acessibilidade e manutenção**.
+### Conhecer meu trabalho
 
-**Salles Dev** é a identidade que reúne esse jeito de trabalhar: menos complexidade por aparência, mais tecnologia resolvendo problemas reais.
+Meu portfólio é a porta de entrada: [salles.dev.br](https://salles.dev.br).
 
-## O que estou construindo
+### Explorar o código
 
-### 01 / [MIRRO](https://github.com/xsalles/mirro)
+Projetos, experimentos e o que estou aprendendo ficam nos [meus repositórios](https://github.com/xsalles?tab=repositories).
 
-Um experimento *local-first* de guarda-roupa digital e provador virtual, com reconstrução corporal por múltiplas imagens, visualização 3D e simulação física de tecidos. Um projeto de produto, geometria computacional e engenharia no navegador — sem depender de IA generativa para criar o resultado.
+### Conversar sobre uma ideia
 
-`TypeScript` · `Three.js` · `Web Workers` · `WebAssembly` · `IndexedDB`
-
-### 02 / PlakaLink
-
-Um produto próprio para conectar negócios aos seus clientes por **NFC e QR Code**, com uma experiência simples na ponta e uma operação organizada por trás. Em desenvolvimento.
-
-`Produto` · `Full Stack` · `NFC` · `QR Code`
-
-### 03 / Vitta-One
-
-Sistema de gestão clínica desenvolvido em equipe, cobrindo jornadas de recepção, médicos e pacientes. Meu foco é transformar regras de atendimento, agendas, permissões e fluxos clínicos em uma aplicação consistente.
-
-`React` · `APIs` · `PostgreSQL` · `UX` · `Controle de acesso`
-
-<p align="right"><a href="https://github.com/xsalles?tab=repositories">Explorar outros projetos →</a></p>
-
-## Tecnologias que uso
-
-**Interfaces & produto** — React, Next.js, Angular, TypeScript, Tailwind CSS, HTML e CSS.
-
-**Back-end & integrações** — Node.js, NestJS, Python, Java, Spring Boot, C#/.NET e APIs REST.
-
-**Dados & infraestrutura** — PostgreSQL, MySQL, Docker, Linux, Git e GitHub Actions.
-
-**Automações & operação** — n8n, webhooks, integrações entre sistemas, processamento de dados e observabilidade.
-
-> A stack muda conforme o problema. Clareza, segurança e qualidade não deveriam mudar.
-
-## Como eu trabalho
-
-**Entender antes de implementar.** O fluxo precisa fazer sentido para quem usa, não só para quem desenvolve.
-
-**Construir com responsabilidade.** Validação, permissões, acessibilidade, tratamento de erros e testes são parte da solução.
-
-**Evoluir sem complicar.** Prefiro decisões que continuem compreensíveis quando o projeto crescer.
-
-## Além do código
-
-Sou formado como técnico em Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira e curso Sistemas de Informação na Faculdade Impacta. Aprender, experimentar e colocar ideias no mundo faz parte da minha rotina — tanto em projetos pessoais quanto em sistemas utilizados no dia a dia.
+Me chama pelo [LinkedIn](https://www.linkedin.com/in/pedro-sales-00090a274/) ou por [e-mail](mailto:xs.salles@gmail.com).
 
 ---
 
-<div align="center">
-  <p><strong>Tem uma ideia, um projeto ou um problema interessante?</strong></p>
-  <p><a href="mailto:xs.salles@gmail.com">Vamos conversar</a> &nbsp;·&nbsp; <a href="https://salles.dev.br">salles.dev.br</a></p>
-  <sub>Salles Dev — engenharia com intenção, software com propósito.</sub>
-</div>
+## O que eu construo
+
+**Produtos web** — interfaces que fazem sentido pra quem usa, fluxos completos, responsividade e acessibilidade. React, Next.js, Angular e TypeScript são algumas das ferramentas que uso.
+
+**Back-end e dados** — APIs, autenticação, permissões, regras de negócio, integrações e bancos de dados. Trabalho com Node.js, NestJS, Python, C#/.NET e PostgreSQL, entre outras tecnologias.
+
+**Automação** — processos conectados, webhooks, n8n e integrações que tiram trabalho repetitivo do caminho.
+
+**Operação e entrega** — Docker, Linux, Git, CI/CD e o cuidado necessário para uma aplicação continuar funcionando depois do deploy.
+
+---
+
+## Projetos em movimento
+
+**[MIRRO](https://github.com/xsalles/mirro)** — um guarda-roupa digital e provador virtual *local-first*, explorando reconstrução 3D, simulação de tecidos e processamento no navegador.
+
+**PlakaLink** — um produto que aproxima negócios e clientes com NFC e QR Code, conectando a experiência física a serviços digitais.
+
+**Vitta-One** — uma plataforma de gestão clínica com jornadas para recepção, médicos e pacientes, agenda, atendimento e controle de acesso.
+
+Cada projeto resolve um problema diferente. O que eles têm em comum é a preocupação com a experiência inteira, não só com uma tela ou uma API.
+
+---
+
+## A ideia por trás da Salles Dev
+
+Código não é o produto final. É o meio.
+
+Uma solução boa precisa ser compreensível pra quem usa, confiável pra quem depende dela e sustentável pra quem vai mantê-la. Por isso, gosto de participar do processo inteiro: entender a necessidade, pensar a interface, modelar a lógica, implementar e melhorar a partir do uso real.
+
+Não me interessa complicar algo só pra parecer sofisticado. Me interessa fazer funcionar bem.
+
+---
+
+## Como eu penso um projeto
+
+**Problema** — antes de escolher a stack, entender quem precisa da solução e por quê.
+
+**Experiência** — organizar fluxos, conteúdo e interações para reduzir atrito. Acessibilidade não entra só no final.
+
+**Engenharia** — dados, segurança, permissões, testes e integrações precisam sustentar a experiência.
+
+**Evolução** — entregar, observar, corrigir e continuar melhorando. Um sistema não termina no primeiro deploy.
+
+---
+
+## Fora do editor
+
+Sou técnico em Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira e estudante de Sistemas de Informação na Faculdade Impacta, em São Paulo.
+
+Gosto de experimentar ideias, estudar tecnologias e transformar projetos que começam pequenos em algo útil de verdade.
+
+---
+
+## Quando precisar
+
+**Portfólio:** [salles.dev.br](https://salles.dev.br)  
+**GitHub:** [@xsalles](https://github.com/xsalles)  
+**LinkedIn:** [Pedro Sales](https://www.linkedin.com/in/pedro-sales-00090a274/)  
+**E-mail:** [xs.salles@gmail.com](mailto:xs.salles@gmail.com)
+
+*Salles Dev. Software com intenção.*
